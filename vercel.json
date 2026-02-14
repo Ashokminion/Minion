@@ -1,0 +1,10 @@
+{
+    "name": "Valentine-Project",
+    "rewrites": [
+        {
+            "source": "/(.*)",
+            "destination": "/love-me-valentine-main/$1"
+        }
+    ],
+    "cleanUrls": true
+}
