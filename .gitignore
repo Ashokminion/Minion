@@ -1,0 +1,23 @@
+# Java
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env/
+
+# VS Code
+.vscode/
+
+# OS specific
+Thumbs.db
+Desktop.ini
+.DS_Store
